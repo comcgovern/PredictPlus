@@ -21,9 +21,7 @@ The metric is **scaled to 100 (league average) with a standard deviation of 10**
 
 ## Why It Matters
 
-Initial validation shows meaningful correlations with pitcher performance:
-- **-0.1 correlation with xFIP for starters** — more unpredictable starters perform better
-- **+0.12 correlation with swinging strike rate for starters** — unpredictability generates more whiffs
+Initial validation shows meaningful correlations with pitcher performance. Higher Predict+ for starters (1500+ pitches in a season) is associated with a lower xFIP and SIERA and a higher swinging strike rate and strikeout rate.
 
 This suggests there's strategic value in unpredictability, not just randomness, though there's also a lot of noise there. The effect exists even after controlling for pitch quality metrics.
 
