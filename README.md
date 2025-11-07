@@ -261,4 +261,4 @@ Commercial use requires licensing. This means:
 
 ---
 
-**Questions?** Open an issue or reach out on Bluesky [@conormcgovern.bsky.social]
+**Questions?** Open an issue or reach out on [Bluesky](https://bsky.app/profile/conormcgovern.bsky.social).
