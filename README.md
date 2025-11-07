@@ -231,7 +231,7 @@ https://github.com/comcgovern/PredictPlus/
 ## License
 
 ### For Researchers, Journalists, and Hobbyists
-MIT License (free) - see LICENSE-MIT
+GNU GPL-3 (free) - see LICENSE
 
 Non-commercial use is encouraged! This means:
 - Academic research and publications
