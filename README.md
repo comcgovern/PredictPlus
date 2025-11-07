@@ -243,7 +243,7 @@ Non-commercial use is encouraged! This means:
 
 ### For Professional Organizations
 Including MLB/MiLB teams, international professional leagues, sports betting companies, and commercial scouting services.
-Contact [comcgovern@gmail.com] for commercial licensing.
+Contact comcgovern@gmail.com for commercial licensing.
 
 Commercial use requires licensing. This means:
 - Professional team scouting departments
