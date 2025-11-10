@@ -19,7 +19,7 @@ The metric is **scaled to 100 (league average) with a standard deviation of 10**
 - **100: League average** — predictable in typical ways  
 - **90 or lower: Highly predictable** — follows recognizable patterns
 
-🧢 ![**See the 2025 regular season data here!**](https://public.tableau.com/app/profile/mcgov36/viz/Predict2025/SingleDash)
+🧢 [**See the 2025 regular season data here!**](https://public.tableau.com/app/profile/mcgov36/viz/Predict2025/SingleDash)
 
 ## Why It Matters
 
